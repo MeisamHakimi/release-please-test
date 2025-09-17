@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.2](https://github.com/MeisamHakimi/release-please-test/compare/v1.2.1...v1.2.2) (2025-09-17)
+
+
+### Bug Fixes
+
+* test ([a541e7e](https://github.com/MeisamHakimi/release-please-test/commit/a541e7e866702081332221797442ad2d1732edf2))
+* test revert ([a541e7e](https://github.com/MeisamHakimi/release-please-test/commit/a541e7e866702081332221797442ad2d1732edf2))
+
 ## [1.2.1](https://github.com/MeisamHakimi/release-please-test/compare/v1.2.0...v1.2.1) (2025-09-17)
 
 
