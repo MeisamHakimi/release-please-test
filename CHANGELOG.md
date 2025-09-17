@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/MeisamHakimi/release-please-test/compare/v1.1.10...v1.2.0) (2025-09-17)
+
+
+### Features
+
+* test2 ([0e30ec9](https://github.com/MeisamHakimi/release-please-test/commit/0e30ec988eb1b2429d2d520e9632816edbd6381e))
+
+
+### Bug Fixes
+
+* test2 ([9165e18](https://github.com/MeisamHakimi/release-please-test/commit/9165e180eca767fe89397390f592f95a2a0a3ac9))
+* test2 ([7532421](https://github.com/MeisamHakimi/release-please-test/commit/7532421f129024434df5ba0038f64e6878f28eac))
+
 ## [1.1.10](https://github.com/MeisamHakimi/release-please-test/compare/v1.1.9...v1.1.10) (2025-09-17)
 
 
